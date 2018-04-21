@@ -1,0 +1,6 @@
+There are three ways to debug script
+1. bash -x script-file. ie : bash -x ./script-file.sh
+2. put -x at the end of 1st line, ie : #! /usr/bin/bash -x
+3. use set -x and set +x pair command inside script.
+   set -x is to start debugging.
+   set +x is to stop debugging.
