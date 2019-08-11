@@ -1,6 +1,9 @@
 #! /usr/bin/bash
 
-#display hello
+########################################################
+# display hello to screen
+########################################################
+
 echo "hello"
 echo 'hello'
 echo hello
